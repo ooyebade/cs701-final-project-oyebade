@@ -1,0 +1,28 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.rules {
+    text-align: center;
+    margin: 2%;
+    margin-left: 10px;
+    color: #000000;
+    padding: 15px;
+    font-family: 'Roboto Slab', cursive;
+    background: url('../images/rules.jpg');
+    background-size: cover;
+    font-size: 18px;
+}
+
+.rules ul {
+    list-style-type: none;
+    margin: 1%;
+}
+
+.rules li {
+    margin: 2%;
+}
+.rules-title {
+    text-align: center;
+    color: #000000;
+}
